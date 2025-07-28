@@ -1,6 +1,8 @@
 # Plateful – Social Food Discovery Web App
 
-Plateful is a responsive, high-performance food discovery platform inspired by services like Burpple. Built with a modern React stack, it supports dynamic theming, filtering, and client-side routing — optimized for developer experience and scalability.
+**🌐 Prod:**: [https://plateful-social.vercel.app/](https://plateful-social.vercel.app/)
+
+Plateful is a responsive, high-performance food discovery platform. Built with a modern React stack, it supports dynamic theming, filtering, and client-side routing — optimized for developer experience and scalability.
 
 ---
 
